@@ -1,4 +1,4 @@
 # Chat-Room-Protocol1.0
-This is a chat rooom designed in Java to let people chat with each other in a running server.
+This Java-based chat room provides a platform for people to communicate with each other in real-time via a running server. The project consists of two groups of files - the server and the client.
 
-In this project, there are two groups of files called server and client. People need to open the server file and run it on a computer to create a current server, then other can use the file called client to connect to the server by type the IP address for the comupter that is running the file server. After people enter the chat room, it will show on the screen that someone enter the chat room. And people can type things at here. The things you typed will be showed to all the people in this room. 
+To initiate the chat room, users need to open the server file and run it on their computer to create a live server. Other users can then connect to the server using the client file and typing in the server's IP address. Upon entering the chat room, users will be greeted with a notification confirming their entry. From there, they can easily communicate with other users by typing messages into the chat interface. All messages sent by users will be displayed in real-time on the screens of all other users in the chat room.
